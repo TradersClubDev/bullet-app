@@ -22,6 +22,7 @@ fix tier logic
 # 2.0.5 (2022-06-08)
 
 Public Release
+
 Multiple improvements
 
 # 2.0.2a (2022-05-22)
