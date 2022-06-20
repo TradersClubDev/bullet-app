@@ -30,12 +30,6 @@ TG buy
 
 Fixes
 
-# 2.0.2a (2022-05-22)
-
-TG buy
-
-Fixes
-
 # 2.0.0a (2022-04-20)
 
 Initial Web based Sniper (Alpha/POC)
