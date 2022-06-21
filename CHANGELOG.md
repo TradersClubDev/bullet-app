@@ -1,4 +1,9 @@
 
+# 2.0.9 (2022-06-21)
+
+Fix LP detection for USDT
+Improved Token update function
+
 # 2.0.8 (2022-06-19)
 
 switch transport from TCP to Redis (min 10x boot-time improvement)
