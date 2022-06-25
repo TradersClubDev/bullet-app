@@ -1,4 +1,9 @@
 
+# 2.0.10 (2022-06-26)
+
+Added "share" snipe function
+Initial support for Referrals
+Fixed a bug where if buy tax was not integer stats were not updated
 # 2.0.9 (2022-06-21)
 
 Fix LP detection for USDT
