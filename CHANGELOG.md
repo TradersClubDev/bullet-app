@@ -1,15 +1,20 @@
 # 2.0.11 (2022-06-28)
 
 Added API support for Refferals
+
 Added login with phone&code for TG buy
+
 Added multi language support (en/ro)
 
 
 # 2.0.10 (2022-06-26)
 
 Added "share" snipe function
+
 Initial support for Referrals
+
 Fixed a bug where if buy tax was not integer stats were not updated
+
 # 2.0.9 (2022-06-21)
 
 Fix LP detection for USDT
