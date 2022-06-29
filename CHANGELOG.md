@@ -1,3 +1,9 @@
+# 2.0.11 (2022-06-28)
+
+Added API support for Refferals
+Added login with phone&code for TG buy
+Added multi language support (en/ro)
+
 
 # 2.0.10 (2022-06-26)
 
