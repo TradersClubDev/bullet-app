@@ -1,3 +1,11 @@
+# 2.0.12 (2022-06-29)
+
+Added Telegram Logout
+
+Added title value % in order details
+
+Misc fixes
+
 # 2.0.11 (2022-06-28)
 
 Added API support for Refferals
