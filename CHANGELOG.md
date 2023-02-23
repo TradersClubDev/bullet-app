@@ -1,3 +1,87 @@
+# 3.0.2 (2023-02-21)
+
+Refactored Order service
+Improved performance
+
+# 3.0.1 (2023-02-21)
+
+Launched v3
+
+# 2.5.4 (2022-11-04)
+
+Multi-node sell/buy
+
+Split buy/sell to separate dedicated nodes
+
+Impletended Modded Geth Nodes
+
+# 2.5.1 (2022-09-07)
+
+Fixes for HP checker USD pairs
+
+Fixed Sell token UI issue
+
+Fixed Custom Router param missing
+
+Improved connection pool logic
+
+# 2.5.0 (2022-08-31)
+
+Added Multi swap
+
+Added Contract addon
+
+Various fixes
+
+Refactored GraphQL API for better scaling
+
+Added DogeChain
+
+Refactored Hp Checker contract from scratch to work on all chains/swaps
+
+# 2.2.2 (2022-07-30)
+
+Added profiles
+# 2.2.1 (2022-07-28)
+
+Improved Mempool max drop functionality (support for multicall in ETH)
+
+# 2.2.0 (2022-07-27)
+
+Added gas cost calculations in UI
+
+Added Buy Delay
+
+Presale sniper API
+
+Trailing stop-loss is now absolute value (if you set 10% and your current max is 300%, it will sell at 290% intead of 10% of 300%)
+
+BSC node improvements
+
+Various Improvements
+
+
+# 2.1.3 (2022-07-17)
+
+Multiple misc fixes
+
+# 2.1.0 (2022-07-12)
+
+Added Referrals UI and claim logic
+
+Revampled Orders listing and added filtering
+
+Added Approve Function
+
+Added Auto Gas Limit
+
+Multiple misc fixes
+
+
+# 2.0.13 (2022-06-29)
+
+Added Charting API - Initial support
+
 # 2.0.12 (2022-06-29)
 
 Added Telegram Logout
@@ -8,7 +92,7 @@ Misc fixes
 
 # 2.0.11 (2022-06-28)
 
-Added API support for Refferals
+Added API support for Referrals
 
 Added login with phone&code for TG buy
 
